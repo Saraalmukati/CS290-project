@@ -1,0 +1,85 @@
+PROJECT OVERVIEW:
+Our project aims to create an online platform designed to promote self-education in computer science disciplines. This platform is intended for both teachers and students. It facilitates the process of teaching and learning, with the goal of increasing students' efficiency in educational matters and providing them with convenient and permanent access to lessons, anytime and anywhere.
+
+MAIN GOAL:
+The primary goal of our project is to develop a platform that enhances the teaching and learning experience in the field of computer science. This platform seeks to bridge the gap between teachers and students, enabling teachers to offer courses and lessons while giving students the opportunity to learn and improve their knowledge and skills.
+
+SCOPE:
+The scope of our project includes the following key aspects:
+1: Creating a platform for self-education in computer science disciplines.
+2: Targeting individuals interested in both studying and teaching.
+3: Providing teachers with the capability to offer courses and lessons.
+4: Offering students easy access to a variety of authenticated teachers.
+5: Granting users access to a pool of educational resources.
+6: Encouraging users to engage in discussions and share information, materials, and experiences.
+7: Allowing users to evaluate and assess their learning experience.
+
+OBJECTIVES:
+The project has several specific objectives, including:
+1: Enhancing the teaching and learning experience in computer science.
+2: Ensuring the platform is easily accessible to users.
+3: Enabling a diverse range of authenticated teachers to offer courses.
+4: Providing a repository of educational resources.
+5: Facilitating discussion, sharing, and interaction among users.
+6: Giving users the freedom to evaluate their learning experience.
+
+PROJECT PHASES:
+The project will begin as a prototype, serving as an initial version of the platform. 
+Over time, it is expected to evolve and grow into a reliable and feature-rich application, catering to the needs of both teachers and students in the field of computer science.
+
+INSTALLATION AND SETUP:
+Installing our app is a straightforward and user-friendly experience, designed to get you up and running in no time. To begin, all you need to do is access the app's installation link, and you can quickly initiate the installation process by scanning the provided QR code using your mobile device's built-in QR code scanner.
+
+
+APP FEATURES AND USAGE:
+User Selection: When new users first access our app, they are presented with a clear choice: Are they here to teach or to learn? 
+
+Student Dashboard: For students, the app provides a dashboard displaying all the courses they've registered for. This dashboard acts as a central hub for managing their educational journey.
+
+Teacher Enrollment: Teachers, on the other hand, have access to the teacher page, where they can easily enroll new students and manage educational materials.
+
+Teacher Profiles: Each teacher has a dedicated profile page, showcasing their experience, educational background, and years of teaching.
+This allows students to make informed decisions when choosing a teacher.
+
+Course Browsing: Students can explore a wide range of courses, ensuring they have access to a diverse selection of educational content.
+
+Personalization: Our app offers personalized content recommendations based on individual student interests, enhancing the learning experience and engagement.
+
+Feedback and Rating: Students can rate and provide feedback on courses they've completed, helping other users make informed choices.
+
+Certificates: High-achieving students who complete courses quickly are rewarded with certificates.
+
+Q&A Chat: Our integrated chat feature facilitates communication between students and teachers for quick and effective question-and-answer sessions.
+
+Assessment: Upon completing a course, students are given assignments or tests to assess their comprehension and retention of the material.
+
+Notifications: The app sends automatic notifications to students, keeping them informed about new course releases, deadlines, and important announcements. This feature ensures that users stay on top of their educational journey and never miss essential updates.
+
+
+BUG TRACKING AND ISSUE MANAGEMENT:
+
+User Signup and Login:
+Issue: Users may face difficulties choosing the correct role (teacher or student) during signup.
+Solution: Provide clear instructions and explanations during the signup process to help users understand their role selection.
+
+Issue: Users may forget their passwords.
+Solution: Implement a "Forgot your password?" feature that allows users to reset their password by sending a new one to their registered email.
+
+Teacher Profiles:
+Issue: Teachers may need to edit their personal/educational information.
+Solution: Offer options for teachers to edit their profiles.
+
+Teacher course page:
+Issue: Teachers might accidentally add the wrong course.
+Solution: Allow teachers to edit or delete courses they've added to ensure accuracy.
+
+Student Experience:
+Issue: Students may have difficulty finding the materials they need.
+Solution: Implement a search option on the homepage to make it easier for students to locate specific materials.
+
+Issue: Students may be overwhelmed by the variety of topics.
+Solution: Create topic choices and a selection process, allowing students to narrow down their interests and choose subjects for their profiles.
+
+Issue: Users encounter technical problems or have questions.
+Solution: Develop a help center or support system where users can report issues or seek assistance. Ensure that the development team can effectively track and resolve these issues.
+
