@@ -1,5 +1,5 @@
 PROJECT OVERVIEW:
-Our project aims to create an online platform designed to promote self-education in computer science disciplines. This platform is intended for both teachers and students. It facilitates the process of teaching and learning, with the goal of increasing students' efficiency in educational matters and providing them with convenient and permanent access to lessons, anytime and anywhere..
+Our project aims to create an online platform designed to promote self-education in computer science disciplines. This platform is intended for both teachers and students. It facilitates the process of teaching and learning, with the goal of increasing students' efficiency in educational matters and providing them with convenient and permanent access to lessons, anytime and anywhere..!
 
 MAIN GOAL:
 The primary goal of our project is to develop a platform that enhances the teaching and learning experience in the field of computer science. This platform seeks to bridge the gap between teachers and students, enabling teachers to offer courses and lessons while giving students the opportunity to learn and improve their knowledge and skills.
